@@ -1,4 +1,4 @@
-
+/*
 //Assignment operator
 var a=10
 console.log("Assignment operator",a)
@@ -31,4 +31,17 @@ console.log(0||20)
 console.log(20||0)
 console.log(100||20&&0)
 console.log((100||20)&&0)
+
+
+//Relational Operator >,>=,<,<=,===,!== => true or false
+aR=10
+bR=20
+console.log("Relational Operator > is:",aR>bR)
+console.log("Relational Operator >= is:",aR>=bR)
+console.log("Relational Operator < is:",aR<bR)
+console.log("Relational Operator <= is:",aR<=bR)
+console.log("Relational Operator === is:",aR===bR)
+console.log("Relational Operator !== is:",aR!==bR)
+*/
+
 
